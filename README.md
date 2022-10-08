@@ -1,1 +1,1 @@
-# Hackathon-2022.github.io
+# Hackathon2022.github.io
